@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/jcb.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/jcb.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/maestro.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maestro.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/master.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/master.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/amex.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/amex.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/card.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/card.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/discover.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/discover.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/master.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/master.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rupay.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rupay.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/diner.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/diner.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/laser.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/laser.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/visa.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/visa.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/visa.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/visa.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/diner.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/diner.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/card.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/card.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/discover.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/discover.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/jcb.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/jcb.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/maestro.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maestro.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/amex.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/amex.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rupay.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rupay.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/laser.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/laser.png"
+    }
+]

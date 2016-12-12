@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/otp_icon_large.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/otp_icon_large.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/icicinet.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/icicinet.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_focused_holo.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/logo_payu.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/logo_payu.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/otp_icon_large.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/otp_icon_large.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/kotak.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/kotak.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/amex_logo.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/amex_logo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/citi.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/citi.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/sbinet.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/sbinet.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/logo_payu.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/logo_payu.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/amex_logo.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/amex_logo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/idbi.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/idbi.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_longpressed_holo.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/password_icon_large.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/password_icon_large.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/ing_logo.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/ing_logo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/otp_icon_over.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/otp_icon_over.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/ing_logo.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/ing_logo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/icicinet.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/icicinet.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/sbi.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/sbi.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/icicicc.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/icicicc.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/icicicc.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/icicicc.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/icici.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/icici.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/hsbc.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/hsbc.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/idbi.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/idbi.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/arrow_cb.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/arrow_cb.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/hdfc_bank.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/hdfc_bank.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/kotaknet.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/kotaknet.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/trusticon.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/trusticon.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/password_icon_over.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/password_icon_over.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/otpicon.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/otpicon.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/axis_logo.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/axis_logo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/citi.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/citi.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_focused_holo.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/otpicon.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/otpicon.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/yesbank_logo.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/yesbank_logo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/arrow_cb.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/arrow_cb.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/induslogo.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/induslogo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/slider.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/slider.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/password_icon_large.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/password_icon_large.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/kotaknet.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/kotaknet.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/otp_icon_over.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/otp_icon_over.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/yesbank_logo.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/yesbank_logo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/hsbc.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/hsbc.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/icici.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/icici.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/password_icon_over.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/password_icon_over.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/hdfc_bank.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/hdfc_bank.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/trusticon.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/trusticon.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/hdfc.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/hdfc.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_longpressed_holo.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/slider.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/slider.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/sbi.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/sbi.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/induslogo.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/induslogo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/scblogo.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/scblogo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/sbinet.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/sbinet.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/scblogo.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/scblogo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/axis_logo.png",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/axis_logo.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/hdfc.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/hdfc.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi/kotak.png",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/kotak.png"
+    }
+]

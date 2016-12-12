@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rectangle_box.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/drawable-xhdpi/rectangle_box.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/rectangle_box.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/drawable-xhdpi/rectangle_box.xml"
+    }
+]

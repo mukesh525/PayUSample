@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/activity_emi.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/activity_emi.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_edit_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_edit_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_get_transaction_information.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_get_transaction_information.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/mainprogress.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/mainprogress.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_verify_payment.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_verify_payment.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/activity_payments.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/activity_payments.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_get_offer_status.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_get_offer_status.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_get_transaction_information.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_get_transaction_information.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_get_card_information.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_get_card_information.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_delete_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_delete_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_get_card_information.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_get_card_information.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/activity_cash_card.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/activity_cash_card.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/nb_layout.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/nb_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/cb_progressdialog.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/cb_progressdialog.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_get_offer_status.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_get_offer_status.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/activity_card.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/activity_card.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/loading.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/loading.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/netbanking_list_item.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/netbanking_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/error_page.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/error_page.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/activity_verify_api.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/activity_verify_api.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/register.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/emi_list_item.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/emi_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/cash_card_list_item.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/cash_card_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_get_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_get_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/dialog_cvv.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/dialog_cvv.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/register.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/bank.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/bank.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/retry_otp.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/retry_otp.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/mainprogress.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/mainprogress.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/activity_base.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/activity_base.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/error_page.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/error_page.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_delete_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_delete_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/bank.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/bank.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/activity_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/activity_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/activity_net_banking.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/activity_net_banking.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/activity_verify_api.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/activity_verify_api.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/register_pin.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/register_pin.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/user_card_item.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/user_card_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/activity_emi.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/activity_emi.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_store_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_store_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_edit_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_edit_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/loading.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/loading.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/activity_payments.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/activity_payments.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/emi_list_item.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/emi_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/activity_base.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/activity_base.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/dialog_cvv.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/dialog_cvv.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/cb_prog_dialog.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/cb_prog_dialog.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/activity_cash_card.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/activity_cash_card.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/footer_image.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/footer_image.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/netbanking_list_item.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/netbanking_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_store_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_store_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/cash_card_list_item.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/cash_card_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/cb_progressdialog.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/cb_progressdialog.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/choose_action.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/choose_action.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/retry_otp.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/retry_otp.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/activity_net_banking.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/activity_net_banking.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/activity_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/activity_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_get_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_get_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/activity_card.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/activity_card.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/wait_for_otp.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/wait_for_otp.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_verify_payment.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_verify_payment.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/layout_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/layout_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/layout_user_cards.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/src/main/res/layout/layout_user_cards.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/choose_action.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/choose_action.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/cb_prog_dialog.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/cb_prog_dialog.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/footer_image.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/footer_image.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/nb_layout.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/Android-SDK-Sample-App-master/CustomBrowser-release/unspecified/res/layout/nb_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/register_pin.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/register_pin.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/user_card_item.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/src/main/res/layout/user_card_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mukesh/Downloads/Android-SDK-Sample-App-master/sdkui/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/res/merged/release/layout/wait_for_otp.xml",
+        "source": "/Users/mukesh/Downloads/paytouch-android-master/PayUSample/sdkui/build/intermediates/exploded-aar/PayUSample/CustomBrowser-release/unspecified/res/layout/wait_for_otp.xml"
+    }
+]
